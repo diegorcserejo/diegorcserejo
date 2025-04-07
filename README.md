@@ -13,19 +13,20 @@
 
 <br/>
 
-[![Diego's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=diegorcserejo&bg_color=0a192f&color=007bff&line=00bcd4&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
+
+![snake gif](https://github.com/diegorcserejo/diegorcserejo/blob/output/github-contribution-grid-snake.svg)
 
 ### 🧠 Hards Skills:
 ![Python](https://img.shields.io/badge/-Python-0a192f?style=for-the-badge&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-0a192f?style=for-the-badge&logo=java)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0a192f?style=for-the-badge&logo=mysql)&nbsp;
 
 ### 🌐 Web Development Stack:
-![HTML5](https://img.shields.io/badge/-HTML5-0a192f?style=for-the-badge&logo=html5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-0a192f?style=for-the-badge&logo=css3)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-0a192f?style=for-the-badge&logo=mysql)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML5-0a192f?style=for-the-badge&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0a192f?style=for-the-badge&logo=css)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0a192f?style=for-the-badge&logo=figma)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0a192f?style=for-the-badge&logo=javascript)&nbsp;
 
 ### ⚙️ Methodologies & Architecture:
 ![Scrum](https://img.shields.io/badge/-Scrum-0a192f?style=for-the-badge&logo=scrumalliance&logoColor=white)&nbsp;
@@ -43,6 +44,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0a192f?style=for-the-badge&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-0a192f?style=for-the-badge&logo=nodedotjs)&nbsp;
 
-![snake gif](https://github.com/diegorcserejo/diegorcserejo/blob/output/github-contribution-grid-snake.svg)
+[![Diego's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=diegorcserejo&bg_color=0a192f&color=007bff&line=00bcd4&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 </div>
