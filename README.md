@@ -14,7 +14,6 @@
 <br/>
 
 [![Diego's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=diegorcserejo&bg_color=0a192f&color=007bff&line=00bcd4&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![snake gif](https://github.com/diegorcserejo/diegorcserejo/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -43,5 +42,7 @@
 ![React](https://img.shields.io/badge/-React-0a192f?style=for-the-badge&logo=react)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0a192f?style=for-the-badge&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-0a192f?style=for-the-badge&logo=nodedotjs)&nbsp;
+
+![snake gif](https://github.com/diegorcserejo/diegorcserejo/blob/output/github-contribution-grid-snake.svg)
 
 </div>
