@@ -18,9 +18,20 @@
 
 ---
 
-### 🧠 Main Skills:
+### 🧠 Hards Skills:
 ![Python](https://img.shields.io/badge/-Python-0a192f?style=for-the-badge&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-0a192f?style=for-the-badge&logo=java)&nbsp;
+
+### 🌐 Web Development Stack:
+![HTML5](https://img.shields.io/badge/-HTML5-0a192f?style=for-the-badge&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-0a192f?style=for-the-badge&logo=css3)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0a192f?style=for-the-badge&logo=mysql)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-0a192f?style=for-the-badge&logo=figma)&nbsp;
+
+### ⚙️ Methodologies & Architecture:
+![Scrum](https://img.shields.io/badge/-Scrum-0a192f?style=for-the-badge&logo=scrumalliance&logoColor=white)&nbsp;
+![Kanban](https://img.shields.io/badge/-Kanban-0a192f?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
+![MVC](https://img.shields.io/badge/-MVC-0a192f?style=for-the-badge&logo=three.js&logoColor=white)&nbsp;
 
 ### 🛠️ Tools:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0a192f?style=for-the-badge&logo=visual-studio)&nbsp;
@@ -28,20 +39,9 @@
 ![Git](https://img.shields.io/badge/-Git-0a192f?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0a192f?style=for-the-badge&logo=github)&nbsp;
 
-### 🌐 Other Knowledge:
-![HTML5](https://img.shields.io/badge/-HTML5-0a192f?style=for-the-badge&logo=html5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-0a192f?style=for-the-badge&logo=css3)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-0a192f?style=for-the-badge&logo=mysql)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-0a192f?style=for-the-badge&logo=figma)&nbsp;
-
 ### 📚 Currently Learning:
 ![React](https://img.shields.io/badge/-React-0a192f?style=for-the-badge&logo=react)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0a192f?style=for-the-badge&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-0a192f?style=for-the-badge&logo=nodedotjs)&nbsp;
-
-### ⚙️ Methodologies & Architecture:
-![Scrum](https://img.shields.io/badge/-Scrum-0a192f?style=for-the-badge&logo=scrumalliance&logoColor=white)&nbsp;
-![Kanban](https://img.shields.io/badge/-Kanban-0a192f?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
-![MVC](https://img.shields.io/badge/-MVC-0a192f?style=for-the-badge&logo=three.js&logoColor=white)&nbsp;
 
 </div>
