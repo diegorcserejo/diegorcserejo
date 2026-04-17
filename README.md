@@ -26,6 +26,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-0a192f?style=for-the-badge&logo=css)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0a192f?style=for-the-badge&logo=figma)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0a192f?style=for-the-badge&logo=javascript)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-0a192f?style=for-the-badge&logo=vue.js)&nbsp;
 
 ### ⚙️ Methodologies & Architecture:
 ![Scrum](https://img.shields.io/badge/-Scrum-0a192f?style=for-the-badge&logo=scrumalliance&logoColor=white)&nbsp;
@@ -44,6 +45,5 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-0a192f?style=for-the-badge&logo=nodedotjs)&nbsp;
 
 [![Diego's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=diegorcserejo&bg_color=0a192f&color=007bff&line=00bcd4&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 </div>
