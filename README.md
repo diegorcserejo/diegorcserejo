@@ -10,6 +10,13 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegorcserejo&layout=compact&hide_border=true&include_all_commits=true&title_color=007bff&text_color=faf7fc&bg_color=0a192f" />
 </div>
 
+<div align="center">
+  <a href="LINK_DO_SEU_PORTFOLIO" target="_blank"><img src="https://img.shields.io/badge/PORTFÓLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
+  <a href="LINK_DO_SEU_CURRICULO" target="_blank"><img src="https://img.shields.io/badge/CURRÍCULO-4488FF?style=for-the-badge&logo=googledocs&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/diego-rc-serejo/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="diregorc.serejo@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
 <br/>
 
 ---
