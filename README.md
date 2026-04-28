@@ -19,8 +19,8 @@
     />
   </div>
 
-  <div align="center">
-    <a href="[](https://portifolio-diegorocha.vercel.app/)" target="_blank">
+<div align="center">
+    <a href="https://portifolio-diegorocha.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/PORTFÓLIO-000000?style=for-the-badge&logo=vercel&logoColor=white">
     </a>
     <a href="LINK_DO_SEU_CURRICULO" target="_blank">
@@ -29,10 +29,10 @@
     <a href="https://www.linkedin.com/in/diego-rc-serejo/" target="_blank">
       <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="diregorc.serejo@gmail.com">
+    <a href="mailto:diregorc.serejo@gmail.com">
       <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-  </div>
+</div>
 
   <br/>
 
