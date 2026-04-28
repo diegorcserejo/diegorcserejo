@@ -20,7 +20,7 @@
   </div>
 
   <div align="center">
-    <a href="LINK_DO_SEU_PORTFOLIO" target="_blank">
+    <a href="[](https://portifolio-diegorocha.vercel.app/)" target="_blank">
       <img src="https://img.shields.io/badge/PORTFÓLIO-000000?style=for-the-badge&logo=vercel&logoColor=white">
     </a>
     <a href="LINK_DO_SEU_CURRICULO" target="_blank">
