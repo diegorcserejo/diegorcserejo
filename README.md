@@ -34,6 +34,11 @@
     </a>
 </div>
 
+  <!-- SEÇÃO DE VISUALIZAÇÕES ADICIONADA -->
+  <div align="center" style="margin-top: 15px;">
+    <img src="https://komarev.com/ghpvc/?username=diegorcserejo&color=007bff&style=for-the-badge&label=VISUALIZAÇÕES" alt="Profile Views" />
+  </div>
+  
   <br/>
 
   ---
@@ -58,15 +63,14 @@
   ![MVC](https://img.shields.io/badge/-MVC-0a192f?style=for-the-badge&logo=three.js&logoColor=white)&nbsp;
 
   ### 🛠️ Tools:
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0a192f?style=for-the-badge&logo=visual-studio)&nbsp;
   ![VS Code](https://img.shields.io/badge/-VS%20Code-0a192f?style=for-the-badge&logo=visual-studio-code)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-0a192f?style=for-the-badge&logo=git)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-0a192f?style=for-the-badge&logo=github)&nbsp;
 
   ### 📚 Currently Learning:
   ![React](https://img.shields.io/badge/-React-0a192f?style=for-the-badge&logo=react)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0a192f?style=for-the-badge&logo=typescript)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0a192f?style=for-the-badge&logo=nodedotjs)&nbsp;
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-0a192f?style=for-the-badge&logo=springboot&logoColor=6DB33F)&nbsp;
 
   [![Diego's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=diegorcserejo&bg_color=0a192f&color=007bff&line=00bcd4&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
