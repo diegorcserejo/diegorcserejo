@@ -1,8 +1,8 @@
 <div align="center" style="background-color:#0a192f; padding: 20px; border-radius: 12px;">
 
   <p align="center" style="color:#ffffff;">
-    <strong>🚀 Junior Front-End Developer</strong><br/>
-    <strong>🧔 Pronouns: He/Him</strong>
+    <strong> Junior Front-End Developer</strong><br/>
+    <strong> Pronouns: He/Him</strong>
   </p>
 
   <div align="center">
