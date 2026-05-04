@@ -1,9 +1,10 @@
 <div align="center" style="background-color:#0a192f; padding: 20px; border-radius: 12px;">
 
-  <p align="center" style="color:#ffffff;">
-    <strong> Junior Front-End Developer</strong><br/>
-    <strong> Pronouns: He/Him</strong>
-  </p>
+# 👨‍💻 Diego Rocha
+
+**`Desenvolvedor FrontEnd`**
+
+Me chamo Diego, tenho 23 anos e sou natural do Maranhão. Atualmente, estou cursando Sistemas de Informação na CEST.  Estou sempre em busca de novos desafios, aprimorando minhas habilidades em HTML, CSS, JavaScript e frameworks modernos, além de explorar boas práticas de UI/UX. Além da graduação, estou estagiando no Tribunal de Contas do Estado do Maranhão (TCE-MA) , onde tenho a oportunidade de aplicar meus conhecimentos na prática, colaborar com equipes experientes e contribuir para sistemas que impactam diretamente a gestão pública.
   
 <div align="center">
   <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=diegorcserejo&rank_icon=github&show_icons=true&theme=radical&count_private=true">
