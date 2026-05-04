@@ -4,20 +4,13 @@
     <strong> Junior Front-End Developer</strong><br/>
     <strong> Pronouns: He/Him</strong>
   </p>
+  
+<div align="center">
+  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=diegorcserejo&rank_icon=github&show_icons=true&theme=radical&count_private=true">
+  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=diegorcserejo&layout=compact&theme=radical&count_private=true">
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diegorcserejo&theme=radical"/>
+</div>
 
-  <div align="center">
-    <img
-      width="49%"
-      height="195px"
-      src="https://github-readme-stats.vercel.app/api?username=diegorcserejo&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&title_color=007bff&icon_color=007bff&text_color=c9d1d9&bg_color=0a192f"
-      alt="Diego Rocha GitHub stats"
-    />
-    <img
-      width="41%"
-      height="195px"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegorcserejo&layout=compact&hide_border=true&include_all_commits=true&title_color=007bff&text_color=faf7fc&bg_color=0a192f"
-    />
-  </div>
 
 <div align="center">
     <a href="https://portifolio-diegorocha.vercel.app/" target="_blank">
